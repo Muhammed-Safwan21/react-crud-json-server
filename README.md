@@ -26,25 +26,25 @@ To run this project locally, follow these steps:
 ```shell
    git clone https://github.com/Muhammed-Safwan21/react-crud-json-server.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
-    ```shell
+```shell
     cd react-crud-json-server
-    ```
-3.install the dependencies:
+```
+3. install the dependencies:
 ```shell
      npm install
 ```
     
-4.Start the JSON Server for simulating the API:
+4. Start the JSON Server for simulating the API:
 ```shell
     json-server --watch db.json --port=8000
 ```
-5.Start the React application:
+5. Start the React application:
 ```shell
     npm start
 ```
-6.Open your browser and go to http://localhost:3000 to access the application.
+6. Open your browser and go to http://localhost:3000 to access the application.
 
 ## Usage
 
