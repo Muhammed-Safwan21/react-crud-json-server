@@ -1,0 +1,15 @@
+
+.NavLink {
+    color: white !important;
+    font-weight: bold !important;
+  }
+.NavLink:hover{
+    color: skyblue !important;
+}
+.NavBrand{
+    color: white !important;
+    font-weight: bold !important;
+}
+  
+
+  
